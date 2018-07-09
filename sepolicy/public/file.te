@@ -1,2 +1,6 @@
 type elabel_data_file, file_type, data_file_type;
 type sysfs_pstore, sysfs_type, fs_type;
+type modem_secure_file, data_file_type, file_type;
+type modem_fw_file, data_file_type, file_type;
+type modem_nv_file, data_file_type, file_type;
+type modem_log_file, data_file_type, file_type;
